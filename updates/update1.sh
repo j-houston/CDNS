@@ -1,1 +1,1 @@
-echo "Updates are working"
+echo "updates are working"
